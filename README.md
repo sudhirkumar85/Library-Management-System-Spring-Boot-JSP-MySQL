@@ -4,9 +4,10 @@ A Library Management System (LMS) built using Spring Boot, JSP, JPA, and MySQL. 
 
 Watch the Full Tutorial on YouTube
 
-🎥 Library Management System Full Project Tutorial
+🎥 Library Management System Full Project Tutorial https://youtu.be/2f8H5duPmuQ
 
-📺 CodingWithSudhir YouTube Channel
+📺 CodingWithSudhir YouTube Channel https://www.youtube.com/@CodingWithSudhir
+
 
 Features
 
